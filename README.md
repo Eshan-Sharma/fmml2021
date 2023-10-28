@@ -1,3 +1,6 @@
+# About this Repo 
+Foundation of modern machine learning Course by IIIT Hyderabad attended in 2021. 
+
 ## The case at Madagascar. 
 
 People are falling sick due to Covid 19 and the government wants to vaccinate the citizens who are at highest risk, on priority.
